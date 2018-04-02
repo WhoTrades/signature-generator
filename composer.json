@@ -1,0 +1,15 @@
+{
+	"name": "whotrades/signature-generator",
+	"autoload": {
+		"psr-4": {
+			"Whotrades\\": "src/Whotrades"
+		}
+	},
+	"require": {
+		"php": ">=7.0",
+		"symfony/console": "~v4.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "7.0"
+	}
+}
